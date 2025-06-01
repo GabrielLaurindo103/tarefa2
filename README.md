@@ -1,4 +1,5 @@
 # Tarefa Aula 2
+Objetivo: Aplicação Spring Boot provendo o endpoint /pacotes que retorne todos os pacotes disponíveis
 
 ## Pre-requisitos
 
